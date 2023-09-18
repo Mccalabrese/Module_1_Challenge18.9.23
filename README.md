@@ -29,15 +29,15 @@ Cardano company overview
 
 * IOHK operates in the blockchain industry.
 
-* What have been the major trends and innovations of this domain over the last 5–10 years?
+* The industry in and of itself was really born in 2009 with the introuction of the Bitcoin whitepaper. The whole industy is essentially a tend of the broader data and financial security world. In an extreme sumation, I would say Bitcoin started with politically motivated niche actors that opposed fiat central banking. The goal was primarily to compete against central bank currencies. It bolloned into a massive speculative bubble with no practical transactional use, and with that bubble came etherum and the idea of decentralized apps and broader ecosystems layered on these base blockchains.
 
-* What are the other major companies in this domain?
+* There are competing cryptocurrencies, completing companies, and competeing technologies. In terms of direct competitiors, Finterra and block one are probably the two most immediate competitiors. Hashgraph, bitcoin, and (in my opionion but probably not generally agreed) IOTA are most likely the most intimidating tecnology competitiors.
 
 
 ## Results
 
-* What has been the business impact of this company so far?
-
+* Cardano raised $62 million in its ICO at the begining of the cryptocurrency bubble of 2017 [3]. Not only did Cardano survive the market crash in December of 2017, but the current market cap is $8.8 billion. [7] The company is actively persuading developers to develope apps in its ecosystem.
+  
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
 * How is your company performing relative to competitors in the same domain?
