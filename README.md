@@ -42,13 +42,22 @@ While there are options such as the Winternitz signature scheme [10], I am not a
 
 This area will require further research. The NIST is working on encryption standards for the quantum age, and many groups are working on solutions. The Winternitz signature scheme appears to be a promising solution at the moment, and many companies are adopting it.
 
-[1] “About Input Output.” IOHK, iohk.io/en/about/. Accessed 18 Sept. 2023. 
+[1] “About Input Output.” IOHK, iohk.io/en/about/. Accessed 18 Sept. 2023.
+
 [2]Attieh, Juana. “The Story Behind Cardano’s Team.” Medium, DataDrivenInvestor, 17 Feb. 2021, medium.datadriveninvestor.com/the-story-behind-cardanos-team-5a363ff19504. 
+
 [3]Garg, Priyeshu. “The Cardano Treasury Now Holds Almost Double the Funds Raised in the 2016 ICO.” CryptoSlate, 12 Feb. 2021, cryptoslate.com/the-cardano-treasury-now-holds-almost-double-the-funds-raised-in-the-2016-ico/. 
+
 [4]Rodeck, David. “What Is Cardano (ADA)?” Forbes, Forbes Magazine, 11 Sept. 2023, www.forbes.com/advisor/investing/cryptocurrency/cardano-ada/. 
+
 [5]Conway, Luke. “Cardano (ADA): What It Is, How It Differs From Bitcoin.” Investopedia, Investopedia, www.investopedia.com/cardano-definition-4683961. Accessed 18 Sept. 2023. 
+
 [6]“Cryptocurrency Prices, Charts And Market Capitalizations.” CoinMarketCap, coinmarketcap.com/. Accessed 18 Sept. 2023. 
+
 [7]“Cardano Price Today, ADA to USD Live Price, Marketcap and Chart.” CoinMarketCap, coinmarketcap.com/currencies/cardano/. Accessed 18 Sept. 2023. 
+
 [8]“Cardano (ADA) DApps Have Completed A Record 16M Transactions: The Crypto Basic on Binance Feed.” Binance Feed, The Crypto Basic, 4 Jan. 2023, www.binance.com/en/feed/post/147670. 
+
 [9]“Cardano (ADA) Ecosystem Onboards Over 1,000 dApps; Which Category Is Largest One?” U.Today, 16 June 2022, u.today/cardano-ada-ecosystem-onboards-over-1000-dapps-which-category-is-largest-one#:~:text=of%20its%20dApps.-,Cardano%20(ADA)%20hosts%201%2C017%20dApps%2C%20NFT%20products%20in%20focus,applications%20to%20its%20smart%20contracts. 
+
 [10]“Are These Cryptocurrencies Quantum Secure?: QRL, Mochimo, IOTA, Cardano.” RSS, www.amarchenkova.com/posts/quantum-secure-cryptocurrencies-qrl-mochimo-iota-cardano. Accessed 18 Sept. 2023. 
