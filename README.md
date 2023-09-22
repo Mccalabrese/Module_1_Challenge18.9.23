@@ -1,6 +1,6 @@
-#Cardano Company Overview
+# Cardano Company Overview
 
-##Overview and Origin
+## Overview and Origin
 
 **Input Output Hong Kong (IOHK)** is a *financial technology company that utilizes blockchain research and development to create financial tools for end consumers. It is the creator of the Cardano blockchain, and its tokens are available under the ticker ADA* [2].
 
@@ -8,7 +8,7 @@ The company was founded in 2015, with the Cardano network going live in 2017 [2]
 
 IOHK was primarily funded by its Initial Coin Offering (ICO) in 2016. Cardano raised approximately $62 million, selling roughly 25.8 billion ADA for $0.0024 per token [3].
 
-###Business Activities
+### Business Activities
 
 The founding principle of IOHK is, in their own words, **"Cascading disruption."** Cascading disruption is the idea that many of the structures forming the world’s financial, governance, and social systems are inherently unstable. Minor perturbations can cause a ripple effect that fundamentally reconfigures the entire system. The company is committed to identifying and developing technology to trigger these perturbations in order to push towards a more fair and transparent order [1]. Cardano, as a project, aims to create a research-oriented cryptocurrency that is more environmentally-friendly, scalable, and interoperable than Bitcoin or Ethereum [4].
 
@@ -18,13 +18,13 @@ IOHK has inherent advantages with Cardano's proof-of-stake verification network,
 
 IOHK is the developer of Cardano. They also have a non-profit organization, The Cardano Foundation, overseeing Cardano ecosystem development. In addition, they have tasked EMURGO, a multinational blockchain technology company, with promoting the adoption of the cryptocurrency [2]. Cardano runs on the Ouroboros consensus protocol, where staking tokens determine an actor's permission to create blocks on the blockchain, sized relative to the amount of tokens staked. Cardano also supports smart contracts and non-fungible tokens (NFTs) on the Cardano network [5].
 
-###Landscape
+### Landscape
 
 **IOHK operates in the blockchain industry.** The industry itself emerged in 2009 with the introduction of the Bitcoin whitepaper. It is essentially a subset of the broader data and financial security world. In summary, Bitcoin started with politically motivated niche actors opposed to fiat central banking, primarily aiming to compete against central bank currencies. It eventually expanded into a massive speculative bubble with no practical transactional use. *Along with this bubble came Ethereum and the concept of decentralized apps and broader ecosystems built on these base blockchains.*
 
 There are competing cryptocurrencies, companies, and technologies. In terms of direct competitors, Finterra and Block.one are likely the two most immediate competitors. Hashgraph, Bitcoin, and, in my opinion (though this may not be generally agreed upon), IOTA are the most formidable technology competitors.
 
-###Results
+### Results
 
 Cardano raised $62 million in its ICO at the beginning of the cryptocurrency bubble in 2017 [3]. **Not only did Cardano survive the market crash in December 2017, but its current market cap is $8.8 billion** [7]. *The company actively encourages developers to create apps within its ecosystem.**
 
@@ -32,7 +32,7 @@ Key metrics in the cryptocurrency space to measure success include market cap an
 
 Cardano is one of the very few alternatives to Bitcoin that have survived multiple market crashes. It has continued to attract developers and app creators.
 
-###Recommendations
+### Recommendations
 
 I would recommend that IOHK focus on **"quantum-proofing"** Cardano. Whatever the actual risk may be to blockchains from quantum computing, security is paramount in any financial company. The belief, whether true or false, that quantum computers will break blockchains could harm any company that is not adequately prepared, even if quantum computers themselves never pose a threat.
 
